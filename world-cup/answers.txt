@@ -1,0 +1,19 @@
+Times:
+
+10 simulations: 0m0.036s
+100 simulations: 0m0.031s
+1000 simulations: 0m0.040s
+10000 simulations: 0m0.185s
+100000 simulations: 0m1.039s
+1000000 simulations: 0m9.757s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+
+in the beginning with N = 10, Japan had a 30.0% chance of winning, but as the simulations increased, it's winning percentage decreaded, with N = 1000000, it had only 7% chance of winning.
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?:
+
+Both N = 100000 and N = 1000000 are giving the same results, hence i would say 10000 is a good number of simulations.
