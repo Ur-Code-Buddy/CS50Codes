@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+<!--A share of NYC (NYC) costs $7.43.-->
+    <p> A share of {{stock["name"]}} ({{stock["symbol"]}}) costs ${{stock["price"]}}</p>
+{% endblock %}
