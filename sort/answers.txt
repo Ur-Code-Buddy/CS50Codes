@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Fastest when the list is sorted, and slowest when it isnt.
+
+sort2 uses: Merge Sort
+
+How do you know?: There are minimal differences between random10000 words and random50000 words, also reversed or nonsorted doesnt make much of a difference to it.
+
+sort3 uses: Selection Sort
+
+How do you know?: its both o(n^2) in best cases and worst cases. sorted and reversed doesnt make a big difference

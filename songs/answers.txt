@@ -1,0 +1,15 @@
+Characterizing the Audio Aura:
+I would characterize the listener's audio aura based on the average energy, valence, and danceability of their top 100 songs from 2018.
+If the average energy is high, the music might be intense and active. A high average valence suggests a positive and happy musical content.
+A high average danceability indicates music suitable for dancing.
+
+Limitations and Hypotheses:
+Given my limited knowledge of songs, this method may not be fully representative.
+It might overlook the diversity in the listener's music preferences, as certain genres or specific songs could disproportionately influence the averages.
+Additionally, the method doesn't consider the order or sequence of songs, potentially missing nuances in mood transitions.
+
+
+Considering my limited knowledge, I dont know about specific improvements.
+However, Im guessing that perhaps we could explore advanced statistical methods, machine learning models,
+or incorporate additional features such as tempo, key, and instrumentalness to enhance the accuracy and representativeness of the audio aura calculation.
+Consulting with specialists in the field would likely yield more effective and informed approaches.
